@@ -1,0 +1,24 @@
+ [
+        {
+        "Code": 1,
+        "Product": "Anise",
+        "LotNo": "1234562",
+        "Quantity": "100",
+        "Damage": "50",
+        "Inventory": "Local",
+        "Quality": "Organic",
+        "CreatedDate": "2020-12-25",
+        "Notes": "some notes"
+      },
+      {
+        "Code": 2,
+        "Product": "Basil",
+        "LotNo": "1234572",
+        "Quantity": "200",
+        "Damage": "25",
+        "Inventory": "Local",
+        "Quality": "Conventional",
+        "CreatedDate": "2021-10-01",
+        "Notes": "notes qweqwewwec wqeqwwe qeqweqweqwe qweqwe  qweqwe"
+      }
+]
